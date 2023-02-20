@@ -22,4 +22,4 @@
 
 ## Atempt 2
 
-So I did what I said I wouldn't do. I just repeated what I did in Attempt 1. Good score though.
+So I did what I said I wouldn't do. I just repeated what I did in Attempt 1. Good score though. 207.
