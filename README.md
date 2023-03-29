@@ -2,11 +2,19 @@
 
 # The Team:
 
-> Secretary of IMF: Alex Nguyen
+> Secretary of IMF: Alex Nguyen (Team Captain)
+
+> William Brandt: Ben (Manager)
+
+> Erika Sloane: Minseo (Documentation)
+
+> Ilsa Faust: Chaewoo (Design and Decoration)
+
+> Luther Stickell: Minjun (Design and Decoration)
+
+> Benji Dunn: Daniel (Emotional Support)
 
 > Ethan Hunt: Robot
-
-*More Members to Come* (Maybe?)
 
 # Robot
 
@@ -23,3 +31,9 @@
 ## Atempt 2
 
 So I did what I said I wouldn't do. I just repeated what I did in Attempt 1. Good score though. 207.
+
+## Attempt 3:
+
+![322 Points](./Documentation/Code/322.png)
+
+I got a bit carried away, I found out that one of the ways the save time is by barely picking a disc up while using gps to allow for more consistency.
