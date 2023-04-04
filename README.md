@@ -19,6 +19,7 @@
 # Robot
 
 ## Version 1 (Nationals)
+<img src="./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg" width="400" alt="photo">
 ![Photo](./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg)
 ![Render](./Documentation/Renders/national-render.png)
 ## Version 2 (Skills)
