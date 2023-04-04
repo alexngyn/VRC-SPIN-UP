@@ -20,16 +20,16 @@
 
 ## Version 1 (Nationals)
 <img src="./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg" width="400" alt="photo">
-![Photo](./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg)
-![Render](./Documentation/Renders/national-render.png)
+<img src="./Documentation/Renders/national-render.png" width="400" alt="render">
+
 ## Version 2 (Skills)
-![Photo](./Documentation/Photos/skills.jpg)
-![Render](./Documentation/Renders/skills.png)
+<img src="./Documentation/Photos/skills.jpg" width="400" alt="photo">
+<img src="./Documentation/Renders/skills.png" width="400" alt="render">
+
 ## Version 3 (Shooter V1)
 the photo is somewhere
 ## Version 4 (Worlds)
-![Render](./Documentation/Renders/shoot+indexer.jpg)
-
+<img src="./Documentation/Renders/shoot+indexer.jpg" width="400" alt="render">
 
 # Virtual Programming Skills
 
