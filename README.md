@@ -18,7 +18,17 @@
 
 # Robot
 
-![Robot](./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg)
+## Version 1 (Nationals)
+![Photo](./Documentation/Photos/WIN_20230209_17_56_30_Pro.jpg)
+![Render](./Documentation/Renders/national-render.png)
+## Version 2 (Skills)
+![Photo](./Documentation/Photos/skills.jpg)
+![Render](./Documentation/Renders/skills.png)
+## Version 3 (Shooter V1)
+the photo is somewhere
+## Version 4 (Worlds)
+![Render](./Documentation/Renders/shoot+indexer.jpg)
+
 
 # Virtual Programming Skills
 
