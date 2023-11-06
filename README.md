@@ -44,6 +44,8 @@ World was quite bad because we got stuck on the disk multiple times, expansion g
 
 ## Version 4 (City)
 
+We got 2nd last plave
+
 # Virtual Programming Skills
 
 ## Attempt 1:
@@ -61,3 +63,7 @@ So I did what I said I wouldn't do. I just repeated what I did in Attempt 1. Goo
 <img src="./Documentation/Code/322.png" width="400" alt="322 Points">
 
 I got a bit carried away, I found out that one of the ways the save time is by barely picking a disc up while using gps to allow for more consistency.
+
+# Summary:
+
+We didn't do so well although learnt a lot this season. most important thing i learnt is use loctite. next year i will be joining [1599V](https://github.com/flooof/1599V-VRC) and lets hope i do better.
